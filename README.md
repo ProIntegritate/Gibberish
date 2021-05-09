@@ -1,5 +1,5 @@
 # Gibberish
-Password generation tool to create complex passwords
+Password generation tool to create complex passwords, started in 2015, i posted this... somewhere, and was accessible only from my Goodgle Drive, thought it was high time to move it to a proper repo on Github. It is not a pretty sight and far from commercial level software, but i use it myself to keep track of passwords and to generate strong passwords without thinking of them. See the PDF file for more details on how things work.
 
 <img align="top" src="https://raw.githubusercontent.com/ProIntegritate/Gibberish/main/GUI.png" />
 
@@ -22,6 +22,8 @@ Gibberish can downgrade passwords for sites that require N characters or no spec
 * Some websites have as specific field size in a password table, and cannot accept more.
 * Some websites / servers are coded to only accept 8 character passwords, or a 8-16 character password.
 * Some websites / servers filters special characters, probably because they are afraid of SQL injections. This is a legitimate fear.
+
+Some additional notes:
 
 * Gibberish remembers strength settings for each site.
 * Generates a new password at the click of a button (Generate new seed). Keep your old password and generate a new one - if you like.
