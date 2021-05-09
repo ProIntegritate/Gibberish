@@ -1,7 +1,7 @@
 # Gibberish
 Password generation tool to create complex passwords
 
-(image)
+<img align="top" width="100" src="https://github.com/ProIntegritate/Gibberish/blob/master/GUI.png" />
 
 Gibberish generates passwords too complex to remember for normal human beings. It guarantees strong passwords unlike conventional password managers that just stores any password the user provides for a given site.
 
