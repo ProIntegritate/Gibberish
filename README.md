@@ -1,5 +1,5 @@
 # Gibberish
-Password generation tool to create complex passwords, started in 2015, i posted this... somewhere, and was accessible only from my Goodgle Drive, thought it was high time to move it to a proper repo on Github. It is not a pretty sight and far from commercial level software, but i use it myself to keep track of passwords and to generate strong passwords without thinking of them. See the PDF file for more details on how things work.
+Password generation tool to create complex passwords, started in 2015, i posted this... somewhere, and was accessible only from my Google Drive, thought it was high time to move it to a proper repo on Github. It is not a pretty sight and far from commercial level software, but i use it myself to keep track of passwords and to generate strong passwords without thinking of them. See the PDF file for more details on how things work.
 
 <img align="top" src="https://raw.githubusercontent.com/ProIntegritate/Gibberish/main/GUI.png" />
 
